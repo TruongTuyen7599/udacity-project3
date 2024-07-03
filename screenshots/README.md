@@ -23,3 +23,6 @@ kubectl describe hpa
 ```bash
 kubectl logs {pod_name}
 ```
+
+
+I have put eviden
